@@ -1,9 +1,9 @@
 Search_Files
 ============
 
-Return a list of files under a specific directory. 
+Return a list of file names under a specific directory. 
 
-This function only works under Windows. It returns a list of file names under a directory. 
+This function only works under Windows. 
 
 
 Sample Usage 
